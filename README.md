@@ -18,7 +18,7 @@ Some constraints include the quality of the images provided, as well as the limi
 
    
 
-![image.png](attachment:image.png)
+![this is text](download.png)
 
 
 ```python
@@ -162,7 +162,7 @@ print(ocrExampleText)
 
 ## Before and After: Example
 
-![image.png](attachment:image.png)
+![image.png](downloadOCR.png)
 
 So far so good as the OCR seems to be doing an impeccable job in detecting all the text in the image. Important information such as price, date of purchase, etc. 
 
@@ -259,7 +259,7 @@ def lang_analysis(text_content,printLine = True):
 
 **Here is an example screenshot of the results from running this method**:
 
-![image.png](attachment:image.png)
+![image.png](downloadLang.png)
 
 ## Main Runner (as well as some CSV writing and final processing)
 
@@ -361,7 +361,7 @@ imageList = getImageList()
 main(imageList)
 ```
 
-![image.png](attachment:image.png)
+![image.png](downloadCSV.png)
 
 Screenshot of csv file
 
