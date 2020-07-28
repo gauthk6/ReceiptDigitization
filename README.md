@@ -22,7 +22,7 @@ Some constraints include the quality of the images provided, as well as the limi
 
 
 ```python
-APIKEY = 'AIzaSyATpMPrrqtyQjVzi82Wt2BlACdX435neCY'
+APIKEY = 'nice try'
 ```
 
 
