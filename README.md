@@ -4,7 +4,6 @@
 **7/15/20**  
 **Grade 10**
 
-<iframe id="hypothesis-viz" src="hypothesis_test_viz.html" width="100%" height="600px" frameborder="0"></iframe>
 
 
  ## **Problem Statement**
